@@ -1,0 +1,90 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    font-weight:800;
+    
+}
+h2{
+    font-size: 40px;
+}
+.div-center{
+    margin-left: 60px;
+    margin-top: 50px;
+}
+.green-color{
+    color: green;
+    margin-top: 50px;
+}
+.gray-color{
+    color: gray;
+}
+#bottom-pading{
+    padding-bottom: 50px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(to right,orange, tomato);
+    padding: 15px 30px;
+    color: white;
+    border-radius: 30px;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+width: 50%;
+padding-left: 5%;
+
+}
+.half-width img{
+    width: 100%;
+    
+    
+}
+.section-bg{
+    background-image: url(images/shapes/7.png);
+    padding-top: 60px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.section-margin{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.my-recipe-text{
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    
+}
+.recipe-item{
+    width: 40%;
+    margin: 20px;
+    padding: 15px;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 10px 10px 40px gray;
+    }
+    .recipe-item img{
+        border-radius: 10px;
+    }
+#social-box{
+    margin: 5%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+    #social-follower{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: 900;
+    }
+    .f-area{
+        text-align: center;
+        color: whitesmoke;
+        background-color: black;
+        padding-bottom: 50px;
+    }
+  
+   
